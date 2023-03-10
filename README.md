@@ -58,11 +58,6 @@ Software
 4. 'Forget Password' feature
 5. Provide settings page to enable users to amend details such as emergency contact, allergies and health status
 
-## Authors
-
-* **Wan Zhen** - [thecodingdog](https://github.com/thecodingdog)
-* **Shumin** - [shumin13](https://github.com/shumin13)
-
 
 ## Acknowledgments
 
